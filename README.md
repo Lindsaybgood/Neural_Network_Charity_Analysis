@@ -52,3 +52,4 @@ The model ended up with the accuracy score of 50% after optimization. The initia
 Since our accuracy score was not particularly up to the standard with neural networks, we could have used the Random Forest classifiers. This is because random forest is a robust and accurate model due to their sufficient number of estimators and tree depth. Also the random forest models have a faster performance than neural networks and could have avoided the data from being overfitted. 
 
 
+
